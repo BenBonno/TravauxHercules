@@ -22,3 +22,4 @@ while (heracles.life > 0 && nemean.life > 0) {
         console.log(`${nemean.name} is dead 💀, ${heracles.name} won this fight 🏆`);
     }
 }
+
